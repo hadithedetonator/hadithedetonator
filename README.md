@@ -1,114 +1,76 @@
-# 👋 Hi, I'm Abdul Hadi
+# Greetings, I am Abdul Hadi 👋
 
-💡 Curious mind solving complex problems with code.\
-⚙️ Passionate about **elegant systems, deep learning, and building
-things that think.**
+🎓 Computer Science Student at **FAST NUCES**  
+📍 Islamabad, Pakistan  
+💡 Passionate about **Artificial Intelligence, Distributed Systems, and Full-Stack Engineering**
 
-📍 Islamabad, Pakistan\
-🎓 FAST NUCES\
-🌐 Portfolio: https://abdulhadi-dev-seven.vercel.app/\
-💼 LinkedIn: https://www.linkedin.com/in/haadibaig
+I am deeply committed to crafting elegant software solutions that integrate clean architecture with robust machine learning capabilities. It is my sincere pleasure to share my work with you.
 
-------------------------------------------------------------------------
+---
 
-## 🚀 About Me
+## �️ Technological Expertise
 
-I enjoy building **scalable systems, intelligent applications, and
-real-world products**.\
-My interests span across:
+### **Languages**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> Python &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/> JavaScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/> TypeScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="28"/> Go &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28"/> PHP &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="28"/> Dart
+</p>
 
--   🤖 AI & Intelligent Systems
--   🧠 Machine Learning & LLM Applications
--   🏗 Distributed Systems & Microservices
--   💻 Full Stack Web Development
--   📊 Data & Analytics Platforms
+### **Frameworks & Libraries**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="28"/> Django &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28"/> Node.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/> React &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28"/> Vue.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="28"/> Flutter &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28"/> TailwindCSS
+</p>
 
-I believe great software is **simple, powerful, and thoughtfully
-designed**.
+### **Databases & Subsystems**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28"/> PostgreSQL &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> MySQL &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="28"/> SQLite &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="28"/> RabbitMQ
+</p>
 
-------------------------------------------------------------------------
+### **Tools & Platforms**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28"/> Docker &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> Git &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/> Linux &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28"/> Vercel
+</p>
 
-## 🛠 Tech Stack
-
-### Languages
-
-Python • JavaScript • TypeScript • Go • PHP • Dart
-
-### Backend
-
-Django • Node.js • Express • Laravel • REST APIs • Microservices
-
-### Frontend
-
-React • Vue.js • Flutter • TailwindCSS • Bootstrap
-
-### Databases
-
-PostgreSQL • MySQL • SQLite
-
-### Tools & Platforms
-
-Docker • RabbitMQ • Git • Linux • Vercel
-
-### AI / Data
-
-LLMs • OCR • NLP • Computer Vision
-
-------------------------------------------------------------------------
+---
 
 ## 🌟 Featured Projects
 
-### 🛒 Ecommerce Microservices
+- **Ecommerce Microservices:** A robust, distributed backend utilizing Python and RabbitMQ.
+- **Transaction Risk Monitoring System:** A vigilant fintech application for real-time fraud detection.
+- **Tutor-AI LLM Toolkit:** An advanced SaaS platform empowering educators through AI and OCR.
+- **Hospital Management System:** A comprehensive healthcare application using Django REST Framework.
+- **RearWatch VMS API:** Intelligent CCTV backend ensuring diligent security monitoring.
 
-Distributed e-commerce backend built with **Python microservices
-architecture**, featuring REST APIs, SQLAlchemy, and RabbitMQ messaging.
+---
 
-### 💳 Transaction Risk Monitoring System
+## 📊 GitHub Insights
 
-Real-time fintech system detecting suspicious transactions using a
-**rule-based fraud detection engine** with a React dashboard.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadithedetonator&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadithedetonator&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 
-### 🤖 Tutor-AI LLM Toolkit
+---
 
-AI SaaS platform helping teachers manage quizzes and grading using
-**OCR, LLMs (Llama-3 & Gemma), and Django backend**.
+## 📫 Connect with Me
 
-### 🏥 Hospital Management System
+I would be honored to connect and explore meaningful collaborations.
+- 🌐 Portfolio: https://abdulhadi-dev-seven.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/haadibaig
 
-Full web application built with **Django REST Framework + Bootstrap**
-for managing hospital operations.
-
-### 🎥 RearWatch VMS API
-
-AI-ready CCTV Video Management System backend enabling **real-time
-monitoring and alerts**.
-
-------------------------------------------------------------------------
-
-## 📊 GitHub Stats
-
-![Hadi's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=hadithedetonator&show_icons=true&theme=tokyonight)
-
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadithedetonator&layout=compact&theme=tokyonight)
-
-------------------------------------------------------------------------
-
-## 🧠 Currently Exploring
-
--   Agentic AI Systems\
--   Multimodal AI\
--   Distributed architectures\
--   Scalable AI infrastructure
-
-------------------------------------------------------------------------
-
-## 🤝 Connect With Me
-
-🌐 Portfolio: https://abdulhadi-dev-seven.vercel.app/\
-💼 LinkedIn: https://www.linkedin.com/in/haadibaig
-
-------------------------------------------------------------------------
-
-⭐ *Always learning. Always building.*
+⭐ *Continuous learning with utmost dedication.*
