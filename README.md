@@ -8,7 +8,7 @@ I am deeply committed to crafting elegant software solutions that integrate clea
 
 ---
 
-## �️ Technological Expertise
+## Technological Expertise
 
 ### **Languages**
 <p align="left">
