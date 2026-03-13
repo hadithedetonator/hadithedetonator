@@ -1,6 +1,6 @@
 # Greetings, I am Abdul Hadi 👋
 
-🎓 Computer Science Student at **FAST NUCES**  
+🎓 Masters in Computer Science Student at **FAST NUCES**  
 📍 Islamabad, Pakistan  
 💡 Passionate about **Artificial Intelligence, Distributed Systems, and Full-Stack Engineering**
 
