@@ -1,76 +1,70 @@
-# Greetings, I am Abdul Hadi 👋
+# Abdul Hadi
 
-🎓 Masters in Computer Science Student at **FAST NUCES**  
-📍 Islamabad, Pakistan  
-💡 Passionate about **Artificial Intelligence, Distributed Systems, and Full-Stack Engineering**
+**CS grad student. Building things that matter.**
 
-I am deeply committed to crafting elegant software solutions that integrate clean architecture with robust machine learning capabilities. It is my sincere pleasure to share my work with you.
+> *"The best code is the code that doesn't exist yet — until you need it, then it has to be perfect."*
 
 ---
 
-## Technological Expertise
-
-### **Languages**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> Python &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/> JavaScript &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/> TypeScript &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="28"/> Go &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28"/> PHP &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="28"/> Dart
-</p>
-
-### **Frameworks & Libraries**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="28"/> Django &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28"/> Node.js &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/> React &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28"/> Vue.js &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="28"/> Flutter &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28"/> TailwindCSS
-</p>
-
-### **Databases & Subsystems**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28"/> PostgreSQL &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> MySQL &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="28"/> SQLite &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="28"/> RabbitMQ
-</p>
-
-### **Tools & Platforms**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28"/> Docker &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> Git &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/> Linux &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28"/> Vercel
-</p>
+Islamabad, Pakistan &nbsp;·&nbsp; FAST NUCES &nbsp;·&nbsp; [abdulhadi-dev-seven.vercel.app](https://abdulhadi-dev-seven.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/haadibaig)
 
 ---
 
-## 🌟 Featured Projects
+## What I work with
 
-- **Ecommerce Microservices:** A robust, distributed backend utilizing Python and RabbitMQ.
-- **Transaction Risk Monitoring System:** A vigilant fintech application for real-time fraud detection.
-- **Tutor-AI LLM Toolkit:** An advanced SaaS platform empowering educators through AI and OCR.
-- **Hospital Management System:** A comprehensive healthcare application using Django REST Framework.
-- **RearWatch VMS API:** Intelligent CCTV backend ensuring diligent security monitoring.
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 GitHub Insights
+## Things I've shipped
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadithedetonator&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadithedetonator&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+**[Ecommerce Microservices](https://github.com/hadithedetonator)** — Distributed backend in Python + RabbitMQ. Event-driven, decoupled, built to scale.
+
+**[Transaction Risk Monitor](https://github.com/hadithedetonator)** — Real-time fraud detection for fintech. Because money shouldn't disappear quietly.
+
+**[Tutor-AI LLM Toolkit](https://github.com/hadithedetonator)** — SaaS platform for educators. OCR + LLMs turning static material into interactive learning.
+
+**[Hospital Management System](https://github.com/hadithedetonator)** — Full-stack Django REST app. Healthcare workflows, done right.
+
+**[RearWatch VMS API](https://github.com/hadithedetonator)** — Intelligent CCTV backend. Smart security that actually watches.
 
 ---
 
-## 📫 Connect with Me
+## GitHub
 
-I would be honored to connect and explore meaningful collaborations.
-- 🌐 Portfolio: https://abdulhadi-dev-seven.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/haadibaig
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hadithedetonator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/hadithedetonator)
 
-⭐ *Continuous learning with utmost dedication.*
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hadithedetonator&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/hadithedetonator)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hadithedetonator&theme=tokyonight&hide_border=true)](https://github.com/hadithedetonator)
+
+---
+
+> *"Ship it. Learn. Repeat."*
