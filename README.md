@@ -1,6 +1,6 @@
 # Abdul Hadi
 
-**CS grad student. Building things that matter.**
+**CS Masters student. Building things that matter.**
 
 > *"The best code is the code that doesn't exist yet — until you need it, then it has to be perfect."*
 
